@@ -490,6 +490,10 @@
                                   // Set/get with gcode: M301 E[extruder number, 0-2]
 
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
+  // Creality Ender-3 with MicroSwiss
+  #define DEFAULT_Kp 35.45
+  #define DEFAULT_Ki 4.33
+  #define DEFAULT_Kd 72.46
 
 #endif // PIDTEMP
 
