@@ -2143,11 +2143,6 @@
 //#define FSMC_GRAPHICAL_TFT
 
 //
-<<<<<<< HEAD
-// TFT Little VGL UI
-//
-//#define TFT_LITTLE_VGL_UI
-=======
 // TFT LVGL UI
 //
 // Using default MKS icons and fonts from: https://git.io/JJvzK
@@ -2162,7 +2157,6 @@
 //
 //#define ANYCUBIC_TFT_MODEL
 //#define ANYCUBIC_TFT_DEBUG
->>>>>>> bugfix-2.0.x
 
 //=============================================================================
 //============================  Other Controllers  ============================
