@@ -34,10 +34,8 @@ This project and everyone participating in it is governed by the [Marlin Code of
 
 We have a Message Board and a Facebook group where our knowledgable user community can provide helpful advice if you have questions.
 
-* [Marlin RepRap forum](http://forums.reprap.org/list.php?415)
 * [MarlinFirmware on Facebook](https://www.facebook.com/groups/1049718498464482/)
 
-If chat is more your speed, you can join the MarlinFirmware Slack team:
 
 * Join the Marlin Slack Team
   * To obtain group access, please [send a request](http://www.thinkyhead.com/contact/9) to @thinkyhead.
