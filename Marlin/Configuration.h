@@ -493,7 +493,7 @@
   // Creality Ender-3
   #define DEFAULT_Kp 21.73
   #define DEFAULT_Ki 1.54
-  #define DEFAULT_Kd 76.55
+  #define DEFAULT_Kd 76.54
 
 #endif // PIDTEMP
 
